@@ -41,9 +41,11 @@ void displays()
 
 //SHOW MENU
 displays();
+//declare switch code variable to be used for choices
+int code,m,n;
 //prompt user to choose from menu
 cout<<"please choose a menu item"<<endl;
-
+cin>>code;
 //prompt user to enter two integers
 cout<<"please enter two integers"<<endl;
 cout<<"1st integer = ";
@@ -85,7 +87,4 @@ switch(code)
   case 5:
   cout<"the result is :";
   break;
-  default:
-  cout<<"";
-  break
 }
