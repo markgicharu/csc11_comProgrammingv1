@@ -37,3 +37,6 @@ void displays()
 
 //SHOW MENU
 displays();
+//prompt user to choose from menu
+cout<<"please choose a menu item"<<endl;
+
