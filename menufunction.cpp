@@ -10,6 +10,13 @@ void displays()
   //CALCULATOR FUUNCTIONS
   int addition (int a, int b)
   {
-    
+    return a+b;
   }
-  
+  int subtraction (int m, int n)
+  {
+    return m-n;
+  }
+//MAIN FUNCTION
+
+//SHOW MENU
+displays();
