@@ -19,19 +19,19 @@ void displays()
     return m-n;
   }
   //int multiplication
-  int multiplication (int m, int n)
+  int multiplication (int t, int p)
   {
-    return m*n;
+    return t*p;
   }
   //int division
-  int division (int m, int n)
+  int division (int d, int v)
   {
-    return m/n;
+    return d/v;
   }
   //int modulus
-  int modulus (int m, int n)
+  int modulus (int u, int l)
   {
-    return m%n;
+    return u%l;
   }
 //MAIN FUNCTION
 
