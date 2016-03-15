@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 //function prototype
-int max (int a, int b)
+int max (int a, int b);
 
 //main function
 int main ()
@@ -31,7 +31,7 @@ int main ()
     result = p;
     else 
     cout<<"Both integers are equal"<<endl;
-    //retunr statement
+    //return statement
     return result;
   }
   
