@@ -1,4 +1,4 @@
-# include<iostream>
+# include <iostream>
 using namespace std;
 //void function
 void displays()
@@ -44,7 +44,7 @@ displays();
 //prompt user to choose from menu
 cout<<"please choose a menu item"<<endl;
 
-//prompt user to enter two ntegers
+//prompt user to enter two integers
 cout<<"please enter two integers"<<endl;
 cout<<"1st integer = ";
 cin>>a;
