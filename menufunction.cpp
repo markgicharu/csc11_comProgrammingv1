@@ -56,6 +56,7 @@ cout<<"1st integer = ";
 cin>>m;
 cout<<"2nd integer = ";
 cin>>n;
+
 }
 
 
@@ -83,19 +84,19 @@ cin>>s;
 switch(code)
 {
   case 1:
-  cout<"you chose addition therefore the result is :";
+  cout<<"you chose addition therefore the result is :"<<addition<<endl;
   break;
   case 2:
-  cout<"the result is :";
+  cout<<"you chose subtraction therefore the result is :"<<subtraction<<endl;
   break;
   case 3:
-  cout<"the result is :";
+  cout<<"you chose multiplication therefore the result is :"<<multiplication<<endl;
   break;
   case 4:
-  cout<"the result is :";
+  cout<<"you chose division therefore the result is :"<<division<<endl;
   break;
   case 5:
-  cout<"the result is :";
+  cout<<"you chose modulus therefore the result is :"<<modulus<<endl;
   break;
 }
 }
