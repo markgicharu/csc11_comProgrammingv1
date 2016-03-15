@@ -44,15 +44,24 @@ int main (){
 displays();
 //declare switch code variable to be used for choices
 int code,m,n;
-//prompt user to choose from menu
-cout<<"please choose a menu item"<<endl;
-cin>>code;
-//prompt user to enter two integers
+char confirm;
+//do while statement begins here
+do{
+  //prompt user to choose from menu
+  cout<<"please choose a menu item"<<endl;
+  cin>>code;
+  //prompt user to enter two integers
 cout<<"please enter two integers"<<endl;
 cout<<"1st integer = ";
-cin>>a;
+cin>>m;
 cout<<"2nd integer = ";
-cin>>b;
+cin>>n;
+}
+
+
+
+
+
 cout<<"1st integer = ";
 cin>>m;
 cout<<"2nd integer = ";
@@ -74,7 +83,7 @@ cin>>s;
 switch(code)
 {
   case 1:
-  cout<"the result is :";
+  cout<"you chose addition therefore the result is :";
   break;
   case 2:
   cout<"the result is :";
