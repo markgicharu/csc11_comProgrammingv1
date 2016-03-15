@@ -29,9 +29,9 @@ void displays()
     return d/v;
   }
   //int modulus
-  int modulus (int u, int l)
+  int modulus (int u, int s)
   {
-    return u%l;
+    return u%s;
   }
 //MAIN FUNCTION
 
