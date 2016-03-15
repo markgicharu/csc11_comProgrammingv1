@@ -46,7 +46,7 @@ displays();
 int code,m,n;
 char confirm;
 //do while statement begins here
-do{
+//do{
   //prompt user to choose from menu
   cout<<"please choose a menu item"<<endl;
   cin>>code;
@@ -56,30 +56,7 @@ cout<<"1st integer = ";
 cin>>m;
 cout<<"2nd integer = ";
 cin>>n;
-
-}
-
-
-
-
-
-cout<<"1st integer = ";
-cin>>m;
-cout<<"2nd integer = ";
-cin>>n;
-cout<<"1st integer = ";
-cin>>t;
-cout<<"2nd integer = ";
-cin>>p;
-cout<<"1st integer = ";
-cin>>d;
-cout<<"2nd integer = ";
-cin>>v;
-cout<<"1st integer = ";
-cin>>u;
-cout<<"2nd integer = ";
-cin>>s;
-
+//}
 //create switch statement to display result by calling functions
 switch(code)
 {
