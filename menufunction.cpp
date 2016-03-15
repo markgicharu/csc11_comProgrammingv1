@@ -38,6 +38,7 @@ void displays()
     return u%s;
   }
 //MAIN FUNCTION
+int main (){
 
 //SHOW MENU
 displays();
@@ -87,4 +88,5 @@ switch(code)
   case 5:
   cout<"the result is :";
   break;
+}
 }
