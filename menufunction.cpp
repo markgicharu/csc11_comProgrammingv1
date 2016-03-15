@@ -5,6 +5,10 @@ void displays()
 {
   cout<<"\t \t MENU \t\t"<<endl;
   cout<<"\t 1. \t \t ADD"<<endl;
+  cout<<"\t 2. \t \t SUBTRACT"<<endl;
+  cout<<"\t 3. \t \t MULTIPLY"<<endl;
+  cout<<"\t 4. \t \t DIVIDE"<<endl;
+  cout<<"\t 5. \t \t MODULUS"<<endl;
   
 }
   //CALCULATOR FUUNCTIONS
