@@ -44,3 +44,6 @@ displays();
 //prompt user to choose from menu
 cout<<"please choose a menu item"<<endl;
 
+//prompt user to enter two ntegers
+cou<<"please enter two integers"<<endl;
+
