@@ -71,19 +71,19 @@ cin>>s;
 switch(code)
 {
   case 1:
-  cout<"";
+  cout<"the result is :";
   break;
   case 2:
-  cout<"";
+  cout<"the result is :";
   break;
   case 3:
-  cout<"";
+  cout<"the result is :";
   break;
   case 4:
-  cout<"";
+  cout<"the result is :";
   break;
   case 5:
-  cout<"";
+  cout<"the result is :";
   break;
   default:
   cout<<"";
