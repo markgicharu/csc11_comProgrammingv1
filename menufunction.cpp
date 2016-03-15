@@ -45,5 +45,24 @@ displays();
 cout<<"please choose a menu item"<<endl;
 
 //prompt user to enter two ntegers
-cou<<"please enter two integers"<<endl;
-
+cout<<"please enter two integers"<<endl;
+cout<<"1st integer = ";
+cin>>;
+cout<<"2nd integer = ";
+cin>>;
+cout<<"1st integer = ";
+cin>>;
+cout<<"2nd integer = ";
+cin>>;
+cout<<"1st integer = ";
+cin>>;
+cout<<"2nd integer = ";
+cin>>;
+cout<<"1st integer = ";
+cin>>;
+cout<<"2nd integer = ";
+cin>>;
+cout<<"1st integer = ";
+cin>>;
+cout<<"2nd integer = ";
+cin>>;
