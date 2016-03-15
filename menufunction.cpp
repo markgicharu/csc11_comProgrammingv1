@@ -66,3 +66,26 @@ cout<<"1st integer = ";
 cin>>u;
 cout<<"2nd integer = ";
 cin>>s;
+
+//create switch statement to display result by calling functions
+switch(code)
+{
+  case 1:
+  cout<"";
+  break;
+  case 2:
+  cout<"";
+  break;
+  case 3:
+  cout<"";
+  break;
+  case 4:
+  cout<"";
+  break;
+  case 5:
+  cout<"";
+  break;
+  default:
+  cout<<"";
+  break
+}
